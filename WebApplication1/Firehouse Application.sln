@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firehouse Application", "WebApplication1\Firehouse Application.csproj", "{6238B012-F818-4113-B5B7-6CE48EFB1180}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://firehousecapstone.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = WebApplication1\\Firehouse\u0020Application.csproj
+		SccProjectName0 = WebApplication1
+		SccLocalPath0 = WebApplication1
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6238B012-F818-4113-B5B7-6CE48EFB1180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6238B012-F818-4113-B5B7-6CE48EFB1180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6238B012-F818-4113-B5B7-6CE48EFB1180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6238B012-F818-4113-B5B7-6CE48EFB1180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
